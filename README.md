@@ -21,7 +21,7 @@ me.introduce()
 ```
 
 ## 🌍 About Me  
-I'm a passionate **Software Developer** from Indonesia 🇮🇩 with experience in mobile and web development. I enjoy solving complex problems and building user-centric solutions while thriving in agile teams to create high-quality, impactful software. 
+A passionate **Software Developer** from Indonesia 🇮🇩 with experience in mobile and web development. Skilled in solving complex problems and building user-centric solutions while thriving in agile teams to create high-quality, impactful software.
 
 ## 🛠️ Technologies & Tools
 
@@ -46,5 +46,4 @@ I'm a passionate **Software Developer** from Indonesia 🇮🇩 with experience 
 
 ---
 
-### ✨ Let's Connect!
-I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! 😊 
+Love meeting new people and exchanging ideas. Feel free to reach out and say hi! 😊
