@@ -6,9 +6,9 @@
 [![GitHub nathanaelabel](https://img.shields.io/github/followers/nathanaelabel?label=follow&style=social)](https://github.com/nathanaelabel)
 
 ```swift
-struct SoftwareDeveloper {
+struct SoftwareEngineer {
     let name = "Nathanael Abel"
-    let role = "Software Developer"
+    let role = "Software Engineer"
     let languages = ["Swift", "Java", "PHP", "JavaScript", "Python"]
 
     func introduce() {
@@ -16,14 +16,14 @@ struct SoftwareDeveloper {
     }
 }
 
-let me = SoftwareDeveloper()
+let me = SoftwareEngineer()
 me.introduce()
 ```
 
 ---
 
 ## 🌍 About Me  
-A passionate **Software Developer** from Indonesia 🇮🇩 with experience in mobile and web development. Skilled in solving complex problems and building user-centric solutions while thriving in agile teams to create high-quality, impactful software. <br/><br/>
+**Software Engineer** from Indonesia 🇮🇩 with experience in mobile and web development. Passionate about the art of simplicity, focusing on creating simple yet powerful applications that enhance user experience. <br/><br/>
 
 ## 🛠️ Technologies & Tools
 
