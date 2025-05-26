@@ -23,7 +23,7 @@ me.introduce()
 ---
 
 ## 🌍 About Me  
-A **Software Engineer** from Indonesia 🇮🇩 with experience in mobile and web development. Passionate about the art of simplicity, focusing on creating simple yet powerful applications that enhance user experience. <br/><br/>
+A **Software Engineer** from Indonesia 🇮🇩 with experience in mobile and web development. Currently working at PT. Istana Tiara, an automotive manufacturing company, as a Full Stack Engineer responsible for designing, developing, and maintaining both front-end and back-end components of internal ERP and web systems. <br/><br/>
 
 ## 🛠️ Technologies & Tools
 
