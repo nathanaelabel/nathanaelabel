@@ -23,7 +23,7 @@ me.introduce()
 ---
 
 ## 🌍 About Me  
-**Software Engineer** from Indonesia 🇮🇩 with experience in mobile and web development. Currently working at an automotive manufacturing company as a Software Engineer, developing and maintaining front-end and back-end components of internal ERP and web systems. <br/><br/>
+**Software Engineer** from Indonesia with experience in mobile and web development. Currently working at an automotive manufacturing company, developing and maintaining front-end and back-end components of internal ERP and web systems. <br/><br/>
 
 ## 🛠️ Technologies & Tools
 
